@@ -5,15 +5,17 @@
   /* margin-top: 3rem; */
 }
 
-.HomePage-bird {
+.HomePage-bird.card {
   background: white;
   width: 22rem;
   margin: 3rem 1rem;
+  border-radius: 0;
 }
 
-.card-img-top {
+.HomePage-bird-image.card-img-top {
   height: 14rem;
   object-fit: cover;
+  border-radius: 0;
 }
 
 .card-title {
