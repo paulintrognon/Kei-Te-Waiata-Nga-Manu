@@ -1,0 +1,22 @@
+.HomePage-birds {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  /* margin-top: 3rem; */
+}
+
+.HomePage-bird {
+  background: white;
+  width: 22rem;
+  margin: 3rem 1rem;
+}
+
+.card-img-top {
+  height: 14rem;
+  object-fit: cover;
+}
+
+.card-title {
+  font-family: Fell;
+  font-size: 2rem;
+}

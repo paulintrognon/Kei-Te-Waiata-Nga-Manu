@@ -1,7 +1,5 @@
-@font-face {
-  font-family: 'Ravali';
-  src: url('./fonts/Ravali/Ravali-I.woff2') format('woff2'),
-      url('./fonts/Ravali/Ravali-I.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
+body {
+  color: #111;
+  font-family: Fira;
+  background-color: #fcfcfc;
 }

@@ -1,9 +1,10 @@
 import React from 'react';
 import Header from './Header/Header';
+import './Layout.css';
 
 export default ({ children }) => (
-  <div>
+  <div className="Layout">
     <Header />
-    {children}
+    <div className="Layout-content">{children}</div>
   </div>
 );

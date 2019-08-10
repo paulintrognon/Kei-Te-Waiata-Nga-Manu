@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Fira';
+  src: url('./Fira_Sans/FiraSans-Light.woff2') format('woff2'),
+      url('./Fira_Sans/FiraSans-Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fira';
+  src: url('./Fira_Sans/FiraSans-Medium.woff2') format('woff2'),
+      url('./Fira_Sans/FiraSans-Medium.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fell';
+  src: url('./IM_Fell_Double_Pica/IM_FELL_Double_Pica_Roman.woff2') format('woff2'),
+      url('./IM_Fell_Double_Pica/IM_FELL_Double_Pica_Roman.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
